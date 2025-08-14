@@ -16,3 +16,18 @@ src/data/
 
 # logs
 *.log
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.env
+.venv
+venv/
+env/
+airflow_env/
+.ipynb_checkpoints/
+.DS_Store
+.idea/
+.vscode/
