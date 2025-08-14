@@ -1,0 +1,18 @@
+# python / virtualenv
+venv/
+airflow_env/
+env/
+__pycache__/
+*.pyc
+
+# data / big folders
+data/
+src/data/
+
+# mac / editor / OS files
+.DS_Store
+.vscode/
+.idea/
+
+# logs
+*.log
